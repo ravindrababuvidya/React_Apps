@@ -1,5 +1,14 @@
-button{
+button {
+    height: 50px;
+    width: 25%;
     padding: 10px;
     border-radius: 20px;
-    border: darkgreen
+    border: darkgreen;
+}
+span{
+    font-size: x-large;
+}
+
+label{
+    width: 5%;
 }
